@@ -54,7 +54,7 @@ Tenho experiência prática na construção de infraestruturas resilientes, desd
 Estou sempre aberto a novos desafios e colaborações em projetos de alto impacto.
 
 <div align="left">
-  <a href="COLOQUE_AQUI_O_LINK_DO_SEU_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/victor-emmanuel-de-assis-martins-2256412ab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:victor.emmanuel@aluno.ufr.edu.br">
